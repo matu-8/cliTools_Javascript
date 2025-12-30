@@ -5,6 +5,10 @@ import * as fs from 'node:fs';
 
 //Creo un objeto donde se define la estructura de archivos
 const projectStructure = {
-    src:['index.js'],
-    public:['index.html', 'style.css']
+    'src':['index.js'],
+    'public':['index.html', 'style.css']
 };
+const structureFileArray = Object.entries(projectStructure)
+structureFileArray.forEach(([dir, files])=>{
+    fs.mkdirSync(dir, {recursive:true})
+});

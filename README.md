@@ -1,8 +1,6 @@
-# Herramienta de Linea de Comandos Parra Automatizar Configuracion de Proyectos
+# Herramienta de Linea de Comandos Para Automatizar Configuracion de Proyectos
 Lo que se realiza con esta practica es una automatizacion para setear de manera rapida un proyecto de programacion, mediante la libreria de node.js File System, y javascript.  
-
 ---
-
 ## Anotaciones de Desarrollo
 **Shebang, primera linea del archivo ejecutable**: Es una expresion que indica al sistema operativo, que herramienta utilizar para poder ejecutar el archivo.
 

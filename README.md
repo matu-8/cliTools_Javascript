@@ -9,7 +9,7 @@ Lo que se realiza con esta practica es una automatizacion para setear de manera 
  **Funcion forEach**: Es una funcion que ejecuta el codigo que contenga dentro de la misma, por cada elemento de un arreglo, para el que se quiera que se ejecute la funcion.
 
  **Object.entries**: Es un metodo del tipo de dato objeto, el cual permite convertir un objeto a un arreglo con las propiedades pasadas a pares de clave-valor.  
----
+
 >[!NOTE]
 >**Pasos Realizar el Testeo de la Herramienta**:  
 >1:Checkear las versiones de node y npm, que sean las utlimas y estables.  
